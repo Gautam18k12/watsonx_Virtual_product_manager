@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langgraph
+pandas
+langchain_experimental
+ibm_watson_machine_learning
+langchain-ibm
+python-dotenv
+networkx
+matplotlib
