@@ -1,0 +1,13 @@
+Order_ID,Complaint_ID,Product_ID,Sales_Platform,Date,Issue_Description,Recurring_Flag
+ORD055,CMPNT001,PROD001,Amazon,45125,"The design appears outdated and bulky, lacking modern style and a premium finish, which diminishes their visual appeal compared to contemporary audio devices.",No
+ORD058,CMPNT002,PROD006,Amazon,45249,"The smart wrist watch suffers from rapid battery drain, failing to last through a full day of typical use and requiring frequent, inconvenient recharging that interrupts daily routines.",No
+ORD061,CMPNT003,PROD007,Amazon,45170,"The smart home assistant exhibits delayed voice recognition and often misinterprets commands, causing frustrating delays and disrupting smooth, hands-free control of home devices.",Yes
+ORD062,CMPNT004,PROD006,Amazon,45192,"Its bulky, outdated design lacks the sleek, modern appeal of current wearables, detracting from its overall attractiveness and comfort during prolonged use.",No
+ORD066,CMPNT005,PROD002,Company Website,45125,"The earbuds exhibit unreliable connectivity with frequent pairing failures and signal drops during calls and streaming, leading to noticeable interruptions and user frustration.",No
+ORD074,CMPNT006,PROD007,Amazon,44978,"The smart home assistant struggles with slow voice recognition and inaccurate command interpretation, resulting in extended delays and hindering efficient, seamless control over connected home devices.",Yes
+ORD076,CMPNT007,PROD004,Amazon,45068,"Constructed with low-quality materials, the speakers feel flimsy and are prone to damage, leading to frequent maintenance issues and decreased long-term reliability.",No
+ORD077,CMPNT008,PROD002,Company Website,45001,"Wireless earbuds suffer from short battery life, rapidly depleting after minimal usage, which forces users into constant recharging cycles and interrupts uninterrupted streaming.",No
+ORD079,CMPNT009,PROD001,Amazon,45245,"Audio output is inconsistent with intermittent distortions and sudden volume drops, resulting in poor clarity and an unreliable listening experience during calls or music playback.",No
+ORD082,CMPNT010,PROD005,Company Website,45054,"The slim design compromises internal acoustics, leading to sound distortions at higher volumes, while the overall build appears less robust than expected for a premium product.",No
+ORD084,CMPNT011,PROD003,Amazon,45068,"They lack ergonomic cushioning, resulting in uncomfortable pressure during prolonged use, which causes ear fatigue and reduces user enjoyment over extended sessions.",No
+ORD098,CMPNT012,PROD007,Flipkart,45108,"Experiencing significant lag in voice recognition with the smart home assistant, as it frequently misunderstands spoken commands, thereby interrupting smooth, effective hands-free management of smart home systems.",Yes

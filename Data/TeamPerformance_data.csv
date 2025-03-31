@@ -1,0 +1,101 @@
+Report_ID,Team,Timeline,Tasks_Completed,Issues_Flagged,Reports_Summary,Progress_Rating
+RPT001,TM_PROD007_03,2023-W02,156,20,Partial success in meeting the objectives.,2
+RPT002,TM_PROD004_03,2023-W02,121,2,Highly productive team with remarkable outcomes.,5
+RPT003,TM_PROD003_02,2023-W02,135,14,Goals achieved efficiently with minimal setbacks.,4
+RPT004,TM_PROD002_01,2023-W03,181,5,High productivity and consistent task execution.,4
+RPT005,TM_PROD001_03,2023-W03,64,15,Outstanding efficiency and goal achievement.,5
+RPT006,TM_PROD007_01,2023-W03,113,3,"Significant challenges faced, with limited task completion.",1
+RPT007,TM_PROD001_02,2023-W03,137,2,Strong performance with effective task completion.,4
+RPT008,TM_PROD006_03,2023-W05,108,2,"Some goals achieved, but consistency was lacking.",2
+RPT009,TM_PROD004_02,2023-W06,98,20,Goals achieved efficiently with minimal setbacks.,4
+RPT010,TM_PROD001_01,2023-W07,65,2,"Consistent effort, delivering reliable outcomes.",3
+RPT011,TM_PROD007_01,2023-W07,188,0,"Underperformed, with several pending issues.",1
+RPT012,TM_PROD004_01,2023-W07,161,7,"Some goals achieved, but consistency was lacking.",2
+RPT013,TM_PROD004_02,2023-W08,177,17,"Struggled to meet expectations, requiring more effort.",1
+RPT014,TM_PROD005_01,2023-W10,176,19,Goals achieved efficiently with minimal setbacks.,4
+RPT015,TM_PROD003_01,2023-W10,103,11,Consistently delivered exceptional performance.,5
+RPT016,TM_PROD002_02,2023-W11,96,3,"Balanced performance, meeting expectations.",3
+RPT017,TM_PROD005_02,2023-W11,187,6,"Underperformed, with several pending issues.",1
+RPT018,TM_PROD005_03,2023-W12,164,19,Partial success in meeting the objectives.,2
+RPT019,TM_PROD005_01,2023-W12,67,20,"Most targets achieved, with minor challenges.",3
+RPT020,TM_PROD004_02,2023-W12,165,20,"Progress made, but with noticeable inefficiencies.",2
+RPT021,TM_PROD005_02,2023-W13,122,1,"Underperformed, with several pending issues.",1
+RPT022,TM_PROD002_02,2023-W13,61,0,"Minimal progress made, falling short of key goals.",1
+RPT023,TM_PROD002_03,2023-W14,183,0,Partial success in meeting the objectives.,2
+RPT024,TM_PROD001_01,2023-W14,95,1,Steady progress with satisfactory results.,3
+RPT025,TM_PROD003_01,2023-W15,163,20,Outstanding efficiency and goal achievement.,5
+RPT026,TM_PROD006_01,2023-W17,87,7,"Struggled to meet expectations, requiring more effort.",1
+RPT027,TM_PROD007_02,2023-W17,181,7,"Most targets achieved, with minor challenges.",3
+RPT028,TM_PROD005_01,2023-W17,169,4,"Underperformed, with several pending issues.",1
+RPT029,TM_PROD004_01,2023-W18,112,4,Goals achieved efficiently with minimal setbacks.,4
+RPT030,TM_PROD004_01,2023-W18,174,18,High productivity and consistent task execution.,4
+RPT031,TM_PROD004_03,2023-W18,101,14,"Most targets achieved, with minor challenges.",3
+RPT032,TM_PROD002_03,2023-W20,186,1,Goals achieved efficiently with minimal setbacks.,4
+RPT033,TM_PROD001_02,2023-W20,123,0,"Significant challenges faced, with limited task completion.",1
+RPT034,TM_PROD003_02,2023-W20,113,18,"Struggled to meet expectations, requiring more effort.",1
+RPT035,TM_PROD004_01,2023-W20,162,13,"Minimal progress made, falling short of key goals.",1
+RPT036,TM_PROD002_03,2023-W22,155,8,"Balanced performance, meeting expectations.",3
+RPT037,TM_PROD002_01,2023-W22,153,12,Moderate progress with room for improvement.,2
+RPT038,TM_PROD001_03,2023-W22,58,2,"Balanced performance, meeting expectations.",3
+RPT039,TM_PROD005_03,2023-W22,100,16,Reliable performance with steady improvements.,4
+RPT040,TM_PROD006_02,2023-W22,111,3,Outstanding efficiency and goal achievement.,5
+RPT041,TM_PROD003_02,2023-W22,52,5,Highly productive team with remarkable outcomes.,5
+RPT042,TM_PROD005_02,2023-W22,60,18,Outstanding efficiency and goal achievement.,5
+RPT043,TM_PROD003_02,2023-W23,96,17,"Balanced performance, meeting expectations.",3
+RPT044,TM_PROD004_03,2023-W24,127,5,Reliable performance with steady improvements.,4
+RPT045,TM_PROD003_01,2023-W24,154,19,"Exceptional results, surpassing all expectations.",5
+RPT046,TM_PROD007_02,2023-W25,166,9,"Minimal progress made, falling short of key goals.",1
+RPT047,TM_PROD007_01,2023-W25,176,6,Highly productive team with remarkable outcomes.,5
+RPT048,TM_PROD002_02,2023-W26,180,5,High productivity and consistent task execution.,4
+RPT049,TM_PROD007_03,2023-W27,183,1,"Progress made, but with noticeable inefficiencies.",2
+RPT050,TM_PROD005_02,2023-W27,156,3,High productivity and consistent task execution.,4
+RPT051,TM_PROD002_01,2023-W27,95,8,Reliable performance with steady improvements.,4
+RPT052,TM_PROD002_01,2023-W27,162,11,Moderate progress with room for improvement.,2
+RPT053,TM_PROD006_03,2023-W28,111,5,Highly productive team with remarkable outcomes.,5
+RPT054,TM_PROD006_03,2023-W28,189,18,Outstanding efficiency and goal achievement.,5
+RPT055,TM_PROD003_03,2023-W28,135,18,Strong performance with effective task completion.,4
+RPT056,TM_PROD006_01,2023-W28,107,8,Partial success in meeting the objectives.,2
+RPT057,TM_PROD003_01,2023-W29,132,16,Goals achieved efficiently with minimal setbacks.,4
+RPT058,TM_PROD001_02,2023-W30,161,7,Strong performance with effective task completion.,4
+RPT059,TM_PROD006_01,2023-W30,154,12,Goals achieved efficiently with minimal setbacks.,4
+RPT060,TM_PROD002_03,2023-W31,82,9,Reliable performance with steady improvements.,4
+RPT061,TM_PROD005_03,2023-W31,51,19,"Significant challenges faced, with limited task completion.",1
+RPT062,TM_PROD006_01,2023-W31,56,3,Strong performance with effective task completion.,4
+RPT063,TM_PROD005_01,2023-W32,178,12,Outstanding efficiency and goal achievement.,5
+RPT064,TM_PROD001_02,2023-W32,195,13,Reliable performance with steady improvements.,4
+RPT065,TM_PROD003_03,2023-W32,100,1,Goals achieved efficiently with minimal setbacks.,4
+RPT066,TM_PROD002_02,2023-W32,157,2,"Exceptional results, surpassing all expectations.",5
+RPT067,TM_PROD002_02,2023-W32,178,7,Consistently delivered exceptional performance.,5
+RPT068,TM_PROD002_03,2023-W32,57,10,Partial success in meeting the objectives.,2
+RPT069,TM_PROD007_02,2023-W32,92,15,Goals achieved efficiently with minimal setbacks.,4
+RPT070,TM_PROD005_02,2023-W33,70,13,"Progress made, but with noticeable inefficiencies.",2
+RPT071,TM_PROD006_02,2023-W33,74,19,"Exceptional results, surpassing all expectations.",5
+RPT072,TM_PROD007_03,2023-W33,118,0,"Balanced performance, meeting expectations.",3
+RPT073,TM_PROD006_02,2023-W33,83,1,"Underperformed, with several pending issues.",1
+RPT074,TM_PROD003_01,2023-W34,108,15,"Significant challenges faced, with limited task completion.",1
+RPT075,TM_PROD005_03,2023-W34,167,1,"Significant challenges faced, with limited task completion.",1
+RPT076,TM_PROD006_01,2023-W35,176,17,Highly productive team with remarkable outcomes.,5
+RPT077,TM_PROD005_01,2023-W36,60,17,"Progress made, but with noticeable inefficiencies.",2
+RPT078,TM_PROD004_03,2023-W36,90,10,"Progress made, but with noticeable inefficiencies.",2
+RPT079,TM_PROD004_02,2023-W36,54,14,Goals achieved efficiently with minimal setbacks.,4
+RPT080,TM_PROD006_03,2023-W36,60,14,"Most targets achieved, with minor challenges.",3
+RPT081,TM_PROD001_01,2023-W37,154,0,"Underperformed, with several pending issues.",1
+RPT082,TM_PROD001_01,2023-W38,107,10,"Significant challenges faced, with limited task completion.",1
+RPT083,TM_PROD006_02,2023-W38,144,8,Steady progress with satisfactory results.,3
+RPT084,TM_PROD003_03,2023-W40,197,5,"Consistent effort, delivering reliable outcomes.",3
+RPT085,TM_PROD001_02,2023-W44,153,2,"Progress made, but with noticeable inefficiencies.",2
+RPT086,TM_PROD004_02,2023-W44,172,4,Strong performance with effective task completion.,4
+RPT087,TM_PROD001_01,2023-W45,79,4,Consistently delivered exceptional performance.,5
+RPT088,TM_PROD001_03,2023-W46,144,18,"Most targets achieved, with minor challenges.",3
+RPT089,TM_PROD001_03,2023-W46,56,3,"Some goals achieved, but consistency was lacking.",2
+RPT090,TM_PROD002_01,2023-W47,160,9,Reliable performance with steady improvements.,4
+RPT091,TM_PROD003_02,2023-W47,115,2,"Progress made, but with noticeable inefficiencies.",2
+RPT092,TM_PROD004_03,2023-W47,127,8,Partial success in meeting the objectives.,2
+RPT093,TM_PROD001_03,2023-W47,152,11,Moderate progress with room for improvement.,2
+RPT094,TM_PROD007_02,2023-W48,155,17,Partial success in meeting the objectives.,2
+RPT095,TM_PROD007_03,2023-W48,118,20,"Most targets achieved, with minor challenges.",3
+RPT096,TM_PROD007_01,2023-W48,59,8,Outstanding efficiency and goal achievement.,5
+RPT097,TM_PROD003_03,2023-W48,200,5,Steady progress with satisfactory results.,3
+RPT098,TM_PROD005_03,2023-W49,106,11,Outstanding efficiency and goal achievement.,5
+RPT099,TM_PROD003_03,2023-W50,191,19,"Minimal progress made, falling short of key goals.",1
+RPT100,TM_PROD004_01,2023-W50,106,12,"Significant challenges faced, with limited task completion.",1
