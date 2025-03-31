@@ -60,7 +60,7 @@ Average customer rating for all products
 ## Running the Project
 Execute the Python script:
 ```sh
-python main.py
+python virtual_pm_agenticai.py
 ```
 
 ## Future Enhancements
