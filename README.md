@@ -89,8 +89,8 @@ watsonx_Virtual_product_manager/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/IBM_BizNovaAI.git
-   cd IBM_BizNovaAI
+   git clone https://github.com/gautam18k12/watsonx_Virtual_product_manager.git
+   cd watsonx_Virtual_product_manager
    ```
 
 2. **Create and Activate a Virtual Environment:**
